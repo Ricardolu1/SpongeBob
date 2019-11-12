@@ -108,8 +108,8 @@ var code1=`
 	height:50px;
 	border-radius:50%;
 	position:absolute;
-	top:20px;
-	left:25px;
+	top:9px;
+	left:21px;
 	background:#00AEEF;
 	border:3px solid #000;
 }
@@ -120,8 +120,8 @@ var code1=`
 	background:#000;
 	border-radius:50%;
 	position:relative;
-	top:10px;
-	left:10px;
+	top:5px;
+	left:1px;
 }
 
 /*
