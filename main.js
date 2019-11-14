@@ -108,8 +108,8 @@ var code1=`
 	height:50px;
 	border-radius:50%;
 	position:absolute;
-	top:9px;
-	left:21px;
+	top:12px;
+	left:2px;
 	background:#00AEEF;
 	border:3px solid #000;
 }
