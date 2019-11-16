@@ -301,11 +301,11 @@ var code1=`
 */
 
 .cinturon {
+	background:#000;
 	width:40px;
 	height:15px;
 	position:absolute;
 	top:20px;
-	background:#000;
 }
 
 /*
