@@ -22,6 +22,7 @@
     }, duration);
   }
 
+	
   $('.actions').on('click', 'button',function(e) {
     let $button=$(e.currentTarget)// button
     let speed=$button.attr('data-speed')
@@ -74,7 +75,7 @@ var code1=`
 	height:400px;
 	border:5px solid #000;
 	position: relative;
-	margin: 50px auto;
+	margin: 0px auto;
 	margin-bottom: 0;
 	overflow:hidden;
 }
