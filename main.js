@@ -75,7 +75,7 @@ var code1=`
 	height:400px;
 	border:5px solid #000;
 	position: relative;
-	margin: 0px auto;
+	margin: 10px auto;
 	margin-bottom: 0;
 	overflow:hidden;
 }
